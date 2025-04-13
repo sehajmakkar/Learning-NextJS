@@ -1,4 +1,5 @@
 // directly in app so 
+// root url
 // "/" route
 
 // this is children for root layout

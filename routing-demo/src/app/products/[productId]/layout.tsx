@@ -1,3 +1,6 @@
+// nested layouts.
+// This layout will be used for all productId pages only
+
 export default function ProductDetailLayout(
   {children} : {
     children: React.ReactNode;
